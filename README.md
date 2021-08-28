@@ -1,65 +1,62 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portfolio Bootstrap
 
-> One paragraph statement about the project.
+> Using a CSS framework Bootstrap to create a new website quickly from scratch. Creating a prototype of the portfolio website from scratch
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
 - Frameworks
-- Technologies used
+- Bootstrap
+- CSS
+- HTML
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](http://127.0.0.1:5500/index.html)
 
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
-
-### Install
+- Chrome browser
+- VS Code
+- Gitbash
 
 ### Usage
 
-### Run tests
-
-### Deployment
+- `$ git clone https://github.com/Mucyosoda/try-bootstrap.git`
+- `$ cd try-bootstrap`
+- run the command `code .` to open the file in VS Code
+- run the command `Shift+Alt+R` to open the file in the browser
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Ngu Kingsely**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Kingstalux](https://github.com/Kingstalux)
+- Twitter: [@NguKingsley](https://twitter.com/NguKingsley)
+- LinkedIn: [Ngu Kingsely](https://www.linkedin.com/in/ngu-kingsely-junior-cho-974b60136/)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Claude Mucyo**
+
+- GitHub: [@Kingstalux](https://github.com/Kingjosh007)
+
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Mucyosoda/try-bootstrap/issues).
+
 
 ## Show your support
 
